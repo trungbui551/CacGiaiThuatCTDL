@@ -13,6 +13,10 @@ public class Root {
 		this.right = right;
 	}
 
+	public Root() {
+		
+	}
+
 	public int getData() {
 		return data;
 	}
